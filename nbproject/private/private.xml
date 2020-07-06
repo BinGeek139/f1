@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/com/ptit/managef1/dao/InformationRegisterDAO.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>26</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ngocq/OneDrive/Documents/NetBeansProjects/ManagerF1/src/com/ptit/managef1/model/Racer.java</file>
+            <file>file:/C:/Users/ngocq/OneDrive/Documents/NetBeansProjects/ManagerF1/src/com/ptit/managef1/dao/RacerDAO.java</file>
+            <file>file:/C:/Users/ngocq/OneDrive/Documents/NetBeansProjects/ManagerF1/src/com/ptit/managef1/dao/UserDAO.java</file>
+            <file>file:/C:/Users/ngocq/OneDrive/Documents/NetBeansProjects/ManagerF1/src/com/ptit/managef1/model/InformationRegister.java</file>
+            <file>file:/C:/Users/ngocq/OneDrive/Documents/NetBeansProjects/ManagerF1/src/com/ptit/managef1/dao/RaceDAO.java</file>
+            <file>file:/C:/Users/ngocq/OneDrive/Documents/NetBeansProjects/ManagerF1/src/com/ptit/managef1/view/user/Size.java</file>
+            <file>file:/C:/Users/ngocq/OneDrive/Documents/NetBeansProjects/ManagerF1/src/com/ptit/managef1/view/user/LoginForm.java</file>
+            <file>file:/C:/Users/ngocq/OneDrive/Documents/NetBeansProjects/ManagerF1/src/com/ptit/managef1/dao/DAO.java</file>
+            <file>file:/C:/Users/ngocq/OneDrive/Documents/NetBeansProjects/ManagerF1/src/com/ptit/managef1/model/RacingTeam.java</file>
+            <file>file:/C:/Users/ngocq/OneDrive/Documents/NetBeansProjects/ManagerF1/src/com/ptit/managef1/view/user/SelectRacerForm.java</file>
+            <file>file:/C:/Users/ngocq/OneDrive/Documents/NetBeansProjects/ManagerF1/src/com/ptit/managef1/model/User.java</file>
+            <file>file:/C:/Users/ngocq/OneDrive/Documents/NetBeansProjects/ManagerF1/src/com/ptit/managef1/model/Race.java</file>
+            <file>file:/C:/Users/ngocq/OneDrive/Documents/NetBeansProjects/ManagerF1/src/com/ptit/managef1/model/Role.java</file>
+            <file>file:/C:/Users/ngocq/OneDrive/Documents/NetBeansProjects/ManagerF1/src/com/ptit/managef1/view/user/RegistrationForRaceForm.java</file>
+            <file>file:/C:/Users/ngocq/OneDrive/Documents/NetBeansProjects/ManagerF1/src/com/ptit/managef1/view/user/ManagerHomeForm.java</file>
+            <file>file:/C:/Users/ngocq/OneDrive/Documents/NetBeansProjects/ManagerF1/src/com/ptit/managef1/dao/InformationRegisterDAO.java</file>
+            <file>file:/C:/Users/ngocq/OneDrive/Documents/NetBeansProjects/ManagerF1/src/com/ptit/managef1/dao/RacingTeamDAO.java</file>
+            <file>file:/C:/Users/ngocq/OneDrive/Documents/NetBeansProjects/ManagerF1/test/unit/InformationRegisterDAOTest.java</file>
+        </group>
+    </open-files>
+</project-private>
